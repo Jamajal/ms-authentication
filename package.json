@@ -1,0 +1,17 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "node ./",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.8",
+    "typescript": "^4.8.4"
+  }
+}
