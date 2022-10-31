@@ -5,8 +5,8 @@
       "moduleResolution": "node",
       "rootDir": "src",
       "typeRoots": [
-        "./src/@types",
-        "./node_modules/@types"
+        "./node_modules/@types",
+        "./src/@types"
       ],
       "outDir": "./dist",
       "removeComments": true,
